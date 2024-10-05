@@ -172,6 +172,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -207,6 +210,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _cv
+  - scope:
+      path: ""
+      type: cv
     values:
       layout: single
       author_profile: true
