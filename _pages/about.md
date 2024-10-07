@@ -13,7 +13,7 @@ redirect_from:
 
 💬 I am a Research Assistant at the <a href="https://spog.ucla.edu/" target="_blank">UCLA Speech and Cognitive Development Lab (SPOG)</a> with Assistant Professor Meg Cychosz. My work is focused on creating self-supervised machine learning models to automatically classify child speech vocalizations. Take a look at my <a href="https://theozhangg.github.io/publications/" target="_blank">publications</a> page for more information on my current research project!
 
-🤖 I am also the President of IEEE at UCLA, the largest engineering club on campus. If you are curious about the wonderful work we do, check out the <a href="https://ieeebruins.com/" target="_blank">IEEE at UCLA website</a>. If you would like to see past projects I've worked on at IEEE, check out my <a href="https://theozhangg.github.io/projects/" target="_blank">projects/experience page</a>.
+🤖 I am also the President of IEEE at UCLA, the largest engineering club on campus. If you are curious about the wonderful work we do, check out the <a href="https://ieeebruins.com/" target="_blank">IEEE at UCLA website</a>.
 
 📖 Outside of academics, I love to read sci-fi and contemporary, write, sew, and run really slowly!
 
