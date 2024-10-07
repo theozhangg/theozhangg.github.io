@@ -17,4 +17,4 @@ redirect_from:
 
 📖 Outside of academics, I love to read sci-fi and contemporary, write, sew, and run really slowly!
 
-🗂️ Check out my resume <a href="http://theozhangg.github.io/files/Theo_Zhang_resume.pdf" target="_blank">here</a>!
+🗂️ Check out my resume <a href="http://theozhangg.github.io/files/Theo_Zhang_Resume.pdf" target="_blank">here</a>!
