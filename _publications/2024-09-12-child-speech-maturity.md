@@ -3,7 +3,7 @@ title: "Employing self-supervised learning models for cross-linguistic child spe
 collection: publications
 permalink: /publication/child-speech-maturity
 excerpt: 'Classifying child speech vocalizations are a reliable way to track child speech maturity, but doing so requires extensive professional experience and resources which thus prevents underserved populations from accessing care that would identify at-risk children with speech delays and disorder. We apply self-supervised learning models, including existing and novel transformer and convolutional neural network (CNN) architectures, to the fundamental yet outstanding classification task of identifying child vocalizations.'
-date: 2024-09-12
+# date: 2025-2-12
 # venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing 2025'
 venue: 'Under Review'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
