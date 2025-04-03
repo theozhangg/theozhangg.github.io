@@ -50,39 +50,24 @@ redirect_from:
 ## Extracurricular Activities
 ## IEEE at UCLA
 **President 2024-2025**
-
 * Led and grew the largest IEEE student branch in the U.S. (400+ members with a ~15% increase from the previous year)
-
 * Oversaw 28 officers, managing 5 year-long projects, workshops, industry events, administrative duties, and member engagement
-
 * Raised $50K (75% YoY increase) from UCLA, alumni, and industry
-
 * Set long-term goals focused on the sustainability of the club, launched new initiatives to support more general members, and coordinated directly with IEEE National to connect with and support other student branches around the nation
 
 **IDEA Hacks 2024 Director/External Vice President 2023-2024**
-
 * Directed the largest hardware hackathon on the West Coast with 230+ participants
-
 * Led a team of 20 to secure $40K in funding, sourced hardware, and managed event logistics (website, venue, judging, workshops, catering) with 50+ volunteers
-
 * Managed industry relations, organized corporate events, and interfaced with IEEE National for IEEE at UCLA
 
 **Secretary 2022-2023**
-
 * Overhauled and modernized the weekly <a href="https://uclaieeenewsletter.substack.com/" target="_blank">newsletter</a>, published to ~850 readers
-
 * Created the ongoing <a href="https://uclaieeenewsletter.substack.com/p/ucla-ieee-winter-2025-wrap-up" target="_blank">quarterly report</a> to engage more alumni and general members
-
 * Expanded the Alumni Mentorship Program to 66 members (230% growth)
-
 * Streamlined internal communications by creating a central location for meeting minutes/agendas, internal planning tools, and organizational features for important documents
 
 **Equity, Diversity, and Inclusion (EDI) Chair 2022-2023**
-
 * Served as IEEE at UCLA’s first Equity, Diversity, and Inclusion (EDI) Chair, helping establish one of the first EDI roles among engineering organizations on campus
-
 * Officially codified a Code of Conduct to ensure a safe and inviting environment for all members
-
 * Organized interorganizational events involving multiple engineering organizations and affinity groups, including the creation of an annual event that attracted over 100 participants
-
 * Co-created the EDI Town Hall for the Engineering Department at UCLA with multiple engineering groups, and organized the collected data and feedback into a presentation delivered to faculty
