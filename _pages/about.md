@@ -11,7 +11,7 @@ redirect_from:
 
 ✍️ My work broadly covers the ethical applications of machine learning and artificial intelligence. Specifically, I am interested in examining biases introduced to these machine learning models and pipelines through implicit biases and errors in the development process. I would like to eventually work in the tech policy sector to ensure that our communities are protected and properly served by artificial intelligence rather than exploited.
 
-💬 I am a Research Assistant at the <a href="https://spog.ucla.edu/" target="_blank">UCLA Speech and Cognitive Development Lab (SPOG)</a> with Assistant Professor Meg Cychosz. My work is focused on creating self-supervised machine learning models to automatically classify child speech vocalizations. We currently have a paper under review!
+💬 I am a Research Assistant at the <a href="https://spog.ucla.edu/" target="_blank">UCLA Speech and Cognitive Development Lab (SPOG)</a> with Assistant Professor Meg Cychosz. My work is focused on creating self-supervised machine learning models to automatically classify child speech vocalizations. Check out our recently published paper <a href="https://arxiv.org/abs/2506.08999" target="_blank">here</a>!
 
 🤖 I am also the President of IEEE at UCLA, the largest engineering club on campus and the largest IEEE Student Branch in the nation. If you are curious about the wonderful work we do, check out the <a href="https://ieeebruins.com/" target="_blank">IEEE at UCLA website</a>.
 
