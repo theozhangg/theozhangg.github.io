@@ -21,7 +21,7 @@ redirect_from:
 
 # More about my experiences:
 ## Research/Work
-**Research Assistant | January 2024 – Present**  
+**Research Assistant | January 2024 – June 2025**  
 **Speech and Cognitive Development Lab at UCLA**  
 * Developed deep learning classification models (PyTorch, TensorFlow), leveraging transfer learning to analyze infant speech development and assess speech maturity levels across 25+ languages
 * Processed and curated large-scale speech datasets (53K+ samples) from a novel 200K+ sample corpus (the largest cross-linguistic child speech corpus to date), ensuring balanced dataset splits by age, language, and recording environment
