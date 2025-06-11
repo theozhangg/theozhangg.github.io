@@ -26,7 +26,7 @@ redirect_from:
 * Developed deep learning classification models (PyTorch, TensorFlow), leveraging transfer learning to analyze infant speech development and assess speech maturity levels across 25+ languages
 * Processed and curated large-scale speech datasets (53K+ samples) from a novel 200K+ sample corpus (the largest cross-linguistic child speech corpus to date), ensuring balanced dataset splits by age, language, and recording environment
 * Benchmarked model performance against human annotators, exploring transfer learning and phonetic-tuning techniques to improve classification accuracy on naturalistic audio
-* Co-first author on a paper currently under review
+* Co-first author on a paper accepted to Interspeech 2025
 
 **Senior Data Science Intern and Summer Research Fellow	| June 2024 – September 2024**  
 **UCSF Archives and Special Collections**  
